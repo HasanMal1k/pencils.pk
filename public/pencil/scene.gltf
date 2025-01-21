@@ -1,0 +1,398 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        14.689559936523438,
+        0.9987999796867371,
+        -0.8381199836730957
+      ],
+      "min": [
+        -19.89504051208496,
+        -1.0011999607086182,
+        -2.5701699256896973
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 432,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        -0.0,
+        0.8660265803337097,
+        1.0
+      ],
+      "min": [
+        -0.0,
+        -0.8660265803337097,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 864,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        -22.189769744873047,
+        0.33298999071121216,
+        -1.4147299528121948
+      ],
+      "min": [
+        -24.17367935180664,
+        -0.33539000153541565,
+        -1.9935599565505981
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1584,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        -0.13266994059085846,
+        0.8541872501373291,
+        0.9726924300193787
+      ],
+      "min": [
+        -1.0,
+        -0.9341484308242798,
+        -0.9402979612350464
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 288,
+      "componentType": 5125,
+      "count": 102,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2304,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        -19.106290817260742,
+        0.9987999796867371,
+        -0.8381199836730957
+      ],
+      "min": [
+        -23.106779098510742,
+        -1.0011999607086182,
+        -2.5701699256896973
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2880,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        -0.16700033843517303,
+        0.9099767208099365,
+        0.9757536053657532
+      ],
+      "min": [
+        -0.21039022505283356,
+        -0.935340404510498,
+        -0.9851519465446472
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 696,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3456,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        17.24091911315918,
+        0.9987999796867371,
+        -0.8381199836730957
+      ],
+      "min": [
+        14.689559936523438,
+        -1.0011999607086182,
+        -2.5701699256896973
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4560,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        1.0,
+        0.8660265803337097,
+        1.0
+      ],
+      "min": [
+        -0.0,
+        -0.8660265803337097,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 984,
+      "componentType": 5125,
+      "count": 174,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Jiří Kuba (https://sketchfab.com/kuba.jirka)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pencil-168556240b0c4ad5a6b5ac9ef4bfa9c8",
+      "title": "Pencil"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1680,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5664,
+      "byteOffset": 1680,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7344,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "PencilMainMaterial",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.04696141183376312,
+          0.04696141183376312,
+          0.04696141183376312,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "PencilGrafitMaterial",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.012216790579259396,
+          0.012216790579259396,
+          0.012216790579259396,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "PencilWoodMaterial",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.06680639833211899,
+          0.021752282977104187,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "PencilTopEndMaterial",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800001859664917,
+          0.0,
+          0.0016955769388005137,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pencil_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pencil_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pencil_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pencil_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        240.967529296875,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        5.3505539842485517e-14,
+        -240.967529296875,
+        0.0,
+        0.0,
+        240.967529296875,
+        5.3505539842485517e-14,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.0,
+        -0.0004200000000000001,
+        0.0002400000000000001,
+        0.3490400000000001,
+        1.0
+      ],
+      "name": "Pencil"
+    },
+    {
+      "mesh": 0,
+      "name": "Pencil_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Pencil_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Pencil_2"
+    },
+    {
+      "mesh": 3,
+      "name": "Pencil_3"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Pencil
+* source:	https://sketchfab.com/3d-models/black-pencil-9ca348200a42480ba8f85e8c795474d4
+* author:	jeremytitus (https://sketchfab.com/jeremytitus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Pencil" (https://sketchfab.com/3d-models/black-pencil-9ca348200a42480ba8f85e8c795474d4) by jeremytitus (https://sketchfab.com/jeremytitus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
